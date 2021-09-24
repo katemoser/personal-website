@@ -5,23 +5,30 @@
 
 
 #profilePic {
-    max-width: 200px;
+    max-width: 300px;
     border-radius: 50%;
 }
 
 #title {
     background-color: lightsalmon;
+    padding: 15% 15%;
 }
 
 #about {
     background-color: salmon;
+    padding: 15% 15%;
 }
 
 #projects {
     background-color: indianred;
+    padding: 5% 5%;
+}
+
+#projectsCarousel {
 }
 
 #contact {
     background-color:rgb(155, 68, 68);
+    padding: 20% 20%;
 }
 
