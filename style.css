@@ -3,6 +3,10 @@
     padding-right: 5px;
 }
 
+.card-body{
+    background-color:rgb(255, 197, 174);
+}
+
 
 #profilePic {
     max-width: 300px;
@@ -26,7 +30,7 @@
 
 #places {
     background-color: indianred;
-    padding: 5% 5%;
+    padding: 5% 15%;
 }
 
 #contact {
