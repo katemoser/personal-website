@@ -10,21 +10,23 @@
 }
 
 #title {
-    background-color: lightsalmon;
+    background-color: rgb(255, 197, 174);
     padding: 15% 15%;
 }
 
 #about {
+    background-color: lightsalmon;
+    padding: 15% 15%;
+}
+
+#projects{
     background-color: salmon;
     padding: 15% 15%;
 }
 
-#projects {
+#places {
     background-color: indianred;
     padding: 5% 5%;
-}
-
-#projectsCarousel {
 }
 
 #contact {
