@@ -7,6 +7,14 @@
     background-color:rgb(255, 197, 174);
 }
 
+.contactInfo li{
+    margin: 4px;
+}
+
+ul{
+    list-style-type: none;
+    text-size-adjust: auto;
+}
 
 #profilePic {
     max-width: 300px;
@@ -14,7 +22,7 @@
 }
 
 #title {
-    background-color: rgb(255, 197, 174);
+    background-color: rgb(250, 179, 151);
     padding: 15% 15%;
 }
 
