@@ -1,19 +1,36 @@
+body{
+    color:rgb(245, 255, 220);
+
+}
 .navbar-item {
     text-align: right;
+    
     padding-right: 5px;
 }
 
 .card-body{
-    background-color:rgb(255, 197, 174);
+    background-color:rgb(200, 218, 183);
+}
+
+.card-text{
+    color: rgb(157, 167, 132);
+}
+
+.card-title{
+    color:rgb(104, 112, 83);
+
 }
 
 .contactInfo li{
-    margin: 4px;
+    margin: 10px;
 }
 
 ul{
     list-style-type: none;
-    text-size-adjust: auto;
+}
+
+#resume-button{
+    margin-top: 20px;
 }
 
 #profilePic {
@@ -22,27 +39,27 @@ ul{
 }
 
 #title {
-    background-color: rgb(250, 179, 151);
+    background-color: rgb(198, 216, 169);
     padding: 15% 15%;
 }
 
 #about {
-    background-color: lightsalmon;
+    background-color: rgb(169, 187, 146);
     padding: 15% 15%;
 }
 
 #projects{
-    background-color: salmon;
+    background-color: rgb(138, 161, 108);
     padding: 5% 15%;
 }
 
 #places {
-    background-color: indianred;
+    background-color: rgb(103, 124, 76);
     padding: 5% 15%;
 }
 
 #contact {
-    background-color:rgb(155, 68, 68);
+    background-color: rgb(74, 90, 52);
     padding: 20% 20%;
 }
 
