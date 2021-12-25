@@ -4,12 +4,15 @@ body{
 }
 .navbar-item {
     text-align: right;
-    
     padding-right: 5px;
 }
 
 .card-body{
     background-color:rgb(200, 218, 183);
+}
+
+.card{
+    margin: 5px;
 }
 
 .card-text{
